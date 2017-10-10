@@ -1,0 +1,30 @@
+.navbar{ 
+	text-align: center;
+	font-size:25px;
+	margin: 30px;
+}
+li{
+font-family: 'Merriweather', serif;	margin:15px;
+	display:inline;
+}
+h1{
+	font-family: 'Merriweather', serif;
+	font-size: 60px;
+	text-align: center;
+	margin:70px 0px 70px 0px;
+	background-color: #b8cef2;
+	padding:20px;
+}
+a:link{
+	text-decoration: none;
+	color:black;
+}
+a:visited{
+	text-decoration: none;
+	color:black;
+}
+
+a:hover{
+	color:lightgrey;
+	transition: all 1s;
+}

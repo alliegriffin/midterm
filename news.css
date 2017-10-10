@@ -1,0 +1,38 @@
+
+body{
+	margin-left:100px;
+	margin-right:100px;
+}
+
+h2{
+	font-family: 'Merriweather', serif;
+	font-size: 30px;
+	text-align: center;
+	margin: 50px;
+	background-color: #b8cef2;
+	padding:5px;
+}
+h3{
+	font-family: 'Merriweather', serif;
+	line-height: 30px;
+	font-weight: bold;
+	font-size: 15px;
+	padding-top: 60px;
+}
+p{
+	font-family: 'Lato', sans-serif;
+	line-height: 20px;
+	margin: 20px;
+	text-align: left;
+	margin: 15px 60px 0px 100px;
+}
+img{
+	float:left;
+	margin: 15px;
+}
+div{
+	margin: 25px 25px 230px 25px;
+}
+
+
+
